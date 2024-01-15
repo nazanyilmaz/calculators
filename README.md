@@ -4,4 +4,5 @@
 
 <h4> Project Gif </h4>
 
-![Screen Recording 2024-01-07 at 01 33 31 PM](https://github.com/nazanyilmaz/calculators/assets/147782488/fb9761b6-18db-42d7-a2ea-a3c77493b3d5)
+
+![Screen Recording 2024-01-14 at 02 58 50 PM](https://github.com/nazanyilmaz/calculators/assets/147782488/59280c9c-5e59-4d47-ac98-97984e2be55c)
